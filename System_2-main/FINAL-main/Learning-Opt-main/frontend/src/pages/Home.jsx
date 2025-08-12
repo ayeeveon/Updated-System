@@ -37,7 +37,7 @@ function HomePage() {
               This platform allows you to automatically generate certificates for
               OJT and Immersion programs and conveniently create TESDA records by
               uploading an Excel file. It’s a fast and efficient way to manage
-              your documents.
+              your documents!
             </p>
 
             {/* Feature Cards */}
